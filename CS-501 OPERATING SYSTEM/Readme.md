@@ -1,8 +1,11 @@
-# DBMS
+# OS(Operating System)
 
-https://www.javatpoint.com/dbms-tutorial
+https://www.geeksforgeeks.org/what-is-an-operating-system/
 
 
 <BR>
-https://www.geeksforgeeks.org/introduction-of-dbms-database-management-system-set-1/
+https://www.javatpoint.com/operating-system
 
+
+<br>
+https://www.tutorialspoint.com/operating_system/os_overview.htm
